@@ -115,7 +115,7 @@ interface vehicle {
     year:2008,
     available:true,
     colors:["gray","black","silver"],
-    ammunition: true,
+    ammunation: true,
     pilot: "Captain Maverick",
 
     getinfo: function () {
